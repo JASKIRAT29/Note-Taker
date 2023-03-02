@@ -59,6 +59,34 @@ app.post("/api/notes", (req, res) => {
    res.json(newSaveMode);
    
 });
+// Delete function 
+function deleteNote(params){
+    const removeId = params.id;
+    fs.open("./db/db.json", "r", (err, file) => {
+        if (err) throw err;
+    fs.readFile('./db/db.json', 'utf8', (err, data) => {
+      let storeArr = JSON.parse(data);
+      // removes the note by comparing the indexes
+    
+        if (storeArr.id === removeId) {
+            storeArr.splice(0, 1);
+
+        }
+    
+      fs.writeFileSync(
+        path.join(__dirname, './db/db.json'),
+        JSON.stringify(storeArr)
+    );
+    return storeArr;
+
+        });
+    });
+    }
+app.delete("/api/notes/:id", (req, res) => {
+    deleteResult = deleteNote(req.params.id, notesWrite);
+     res.json(deleteResult);
+   
+  });
 
 
 app.listen(PORT, () => {
