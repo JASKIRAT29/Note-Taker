@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const { v4: uuidv4 } = require("uuid");
 const notesWrite = require("./db/db.json");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // This will create an express server.
 const app = express();
