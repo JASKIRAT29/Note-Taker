@@ -22,5 +22,6 @@ npm install nodemon that makes the server to restart again whenever the changes 
 4. To delete the record of the notes by clicking the red icon on the left side list for particular record based on their indexes.
 # Preview:
 
+![Untitled_ Feb 20, 2023 1_10 PM](https://storage.googleapis.com/castify-exports/gifExports/BPVCGHawCNjNNVvsMKLH?GoogleAccessId=firebase-adminsdk-w1hbr%40castify-storage.iam.gserviceaccount.com&Expires=1677907240&Signature=DaXVlk2oFeEFiJFw7Vb6sKz5aWKMoj6N8%2F068R35ehrp0nqIG6MnCMJE5LwuaN9Hei778nzEdeMNchOyst%2B%2BGZmKvpA70%2BapF0%2B3V6E7Zzo3AbMaMievER44%2BUbdf27mEgocPWSEMlT5RgrRbA5RoOsDZ%2F9LdMQ%2F%2FDRreJetU4RhCqYMa6vMXuyCsXuS83Ff85UW909%2FDx%2FhpCGiv1g8AXRO1J8GcQwfldJi7KUD7rquRzBwvGGCp3yAPNiUxs4RjK2eKPeebRB%2F5VPuHCMS9FOkKGJI5FKMqyxqsZ7qmMDqJQ0cvR2yRsPdBBmeAQohXcZz2s92qhAMk5P7jpFisw%3D%3D&response-content-disposition=attachment%3B%20filename%3D%22Note%20Taker.gif%22)
 # License:
 This project is licensed under the MIT License.
