@@ -1,4 +1,11 @@
 # Note Taker Challenge
+
+## Heroku Development
+https://jaskirat-notetaker.herokuapp.com/notes
+
+![heroku Note-taker](https://user-images.githubusercontent.com/114631240/222917794-1cc4a7d4-2f61-4756-abd5-c7bdeee25550.png)
+
+
 # Description:
 This application is daily routine web application that every person considers as their priority to frame the to- do lists in particular manner that is easily accessible and execute accordingly.
 
@@ -22,6 +29,7 @@ npm install nodemon that makes the server to restart again whenever the changes 
 4. To delete the record of the notes by clicking the red icon on the left side list for particular record based on their indexes.
 # Preview:
 ![Note Taker](https://user-images.githubusercontent.com/114631240/222641441-68b3dc7c-2ed5-4ad9-bc60-745cfc1efb43.gif)
+
 
 # License:
 This project is licensed under the MIT License.
