@@ -3,7 +3,7 @@
 ## Heroku Development
 https://jaskirat-notetaker.herokuapp.com/notes
 
-![heroku Note-taker](https://user-images.githubusercontent.com/114631240/222917794-1cc4a7d4-2f61-4756-abd5-c7bdeee25550.png)
+![heroku Note-taker](https://user-images.githubusercontent.com/114631240/222917879-7fab15dd-8d87-404e-9925-5083bb8e2c99.png)
 
 
 # Description:
